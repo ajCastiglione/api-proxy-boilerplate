@@ -1,0 +1,16 @@
+{
+    "tabWidth": 4,
+    "printWidth": 100,
+    "bracketSpacing": true,
+    "parenSpacing": false,
+    "jsxBracketSameLine": false,
+    "semi": true,
+    "overrides": [
+        {
+            "files": "*.js",
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ]
+}
